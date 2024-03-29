@@ -15,4 +15,4 @@ This is Real-time camera recognition of American Sign Language. Our artificial i
 ## Authors
 
 - Le Phan Nguyen Dat
-- Tran Hoai Tam
+- Nguyen Hoai Tam
